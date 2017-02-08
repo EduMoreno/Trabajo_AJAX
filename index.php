@@ -1,0 +1,1 @@
+ <?php header("Location: View/Pagina_HTML/index.html");
